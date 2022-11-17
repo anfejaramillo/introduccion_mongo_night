@@ -1,0 +1,24 @@
+{
+  "name": "introduccionmongonight",
+  "version": "0.9.0",
+  "description": "este es un proyecto de prueba para manipular las conecciones a mongo DB desde node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anfejaramillo/introduccion_mongo_night.git"
+  },
+  "author": "anfejaramillo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anfejaramillo/introduccion_mongo_night/issues"
+  },
+  "homepage": "https://github.com/anfejaramillo/introduccion_mongo_night#readme",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "mongodb": "^4.12.0"
+  }
+}
